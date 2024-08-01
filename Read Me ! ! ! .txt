@@ -1,0 +1,3 @@
+This application is used to manage all databases: MySQL, MongoDB, PostgreSQL, Oracle, SQLite, MariaDB, SQL Server, ...
+That's amazing!
+You don't need to use "Navicat for MongoDB.exe" and "Navicat for MySQL.exe"!
